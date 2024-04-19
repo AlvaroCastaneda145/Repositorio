@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebCineStar", "WebCineStar\", "{42010FFA-7779-4E55-9641-B719B413E6A8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51348"
+		Debug.AspNetCompiler.PhysicalPath = "WebCineStar\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51348\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51348"
+		Release.AspNetCompiler.PhysicalPath = "WebCineStar\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51348\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51348"
+		SlnRelativePath = "WebCineStar\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42010FFA-7779-4E55-9641-B719B413E6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42010FFA-7779-4E55-9641-B719B413E6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3EE1631-02F2-4BAC-ABB1-38CBB2F68696}
+	EndGlobalSection
+EndGlobal
